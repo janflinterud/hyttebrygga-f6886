@@ -46,7 +46,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: En flytebrygge fra oss er
+    title: En flytebrygge fra oss er..
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
