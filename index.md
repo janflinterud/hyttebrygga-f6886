@@ -36,7 +36,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/classic/feature-1.png
+        image: day78-wallet.png
         media_position: right
         media_width: fifty
       - title: Robust og praktisk
