@@ -12,6 +12,7 @@ sections:
         url: /pricing
         style: primary
         icon_position: right
+        icon: arrow-right
     image: hyttebrygge.jpg
     media_position: left
     media_width: fifty
