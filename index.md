@@ -41,13 +41,7 @@ sections:
         media_width: thirty-three
       - title: Robust og praktisk
         content: Motstår godt norske vintere og er vesentlig lettere enn betongbrygger.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: day83-snowman.png
         media_position: left
         media_width: thirty-three
