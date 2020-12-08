@@ -62,10 +62,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
-    actions:
-      - label: Button
-        url: /pricing
-        style: primary
+    actions: []
     actions_position: bottom
     align: center
     padding_top: large
