@@ -55,9 +55,13 @@ sections:
       - title: Stabil
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Våre brygger benytter BubbleDeck®-elementer som sikrer suveren
+          stabilitet i forhold til pris, vekt og løfteevne. Hver brygge har
+          minst 50 individuelle flyteelementer.
+
+
+          Flyteelementene produseres av [Stela AS](https://www.stela.no) som har
+          enerett på [BubbleDeck](https://www.bubbledeck.no) i Norge.
         actions:
           - label: Learn More
             url: /style-guide
