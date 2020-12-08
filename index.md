@@ -12,9 +12,6 @@ sections:
         url: /pricing
         style: primary
         icon_position: right
-      - label: Learn More
-        url: /features
-        style: secondary
     image: hyttebrygge.jpg
     media_position: left
     media_width: fifty
