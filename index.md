@@ -13,7 +13,7 @@ sections:
         style: primary
         icon_position: right
         icon: arrow-right
-        has_icon: false
+        has_icon: true
     image: hyttebrygge.jpg
     media_position: left
     media_width: fifty
