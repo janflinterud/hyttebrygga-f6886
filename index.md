@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Hyttebrygga
-    subtitle: 'For private hytter, hjem og bryggeanlegg'
+    subtitle: 'Den rimelige bryggen for hytter, hjem og bryggeanlegg'
     content: 'Den rimelige bryggen for hytter, hjem og bryggeanlegg.'
     actions:
       - label: Kontakt oss
