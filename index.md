@@ -31,7 +31,7 @@ sections:
           Teknologien som muliggjør høye betongbygg gjør også våre flytebrygger
           meget gunstige på pris. Våre brygger er for alle!
         actions:
-          - label: Learn More
+          - label: Les mer om flyteelementene
             url: /style-guide
             style: primary
             has_icon: true
