@@ -29,13 +29,7 @@ sections:
         content: >-
           Teknologien som muliggjør høye betongbygg gjør også våre flytebrygger
           meget gunstige på pris. Våre brygger er for alle!
-        actions:
-          - label: Les mer
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: day78-wallet.png
         media_position: right
         media_width: thirty-three
