@@ -60,8 +60,8 @@ sections:
   - type: cta_section
     title: Kontakt oss
     content: >-
-      Ring Jan Flinterud på telefonnummer 97081718 eller send en epost til
-      post@hyttebrygga.no.
+      <a name="kontakt-oss"></a>Ring Jan Flinterud på telefonnummer 97081718
+      eller send en epost til post@hyttebrygga.no.
     actions: []
     actions_position: bottom
     align: center
