@@ -49,13 +49,7 @@ sections:
 
           Flyteelementene produseres av [Stela AS](https://www.stela.no) som har
           enerett på [BubbleDeck](https://www.bubbledeck.no) i Norge.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: 104-dumbbell.png
         media_position: right
         media_width: thirty-three
