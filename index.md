@@ -8,7 +8,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - label: Kontakt oss
+      - label: Kontakt oss!
         url: /pricing
         style: primary
         icon_position: right
