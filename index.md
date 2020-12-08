@@ -41,10 +41,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Robust og praktisk
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: Motstår godt norske vintere og er vesentlig lettere enn betongbrygger.
         actions:
           - label: Learn More
             url: /style-guide
