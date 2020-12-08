@@ -70,7 +70,7 @@ sections:
             icon_position: right
         image: 104-dumbbell.png
         media_position: right
-        media_width: fifty
+        media_width: thirty-three
     feature_padding_vert: large
     align: center
     background_color: secondary
