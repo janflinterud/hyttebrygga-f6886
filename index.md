@@ -50,7 +50,7 @@ sections:
             icon_position: right
         image: day83-snowman.png
         media_position: left
-        media_width: fourty
+        media_width: thirty-three
       - title: Stabil
         subtitle: ''
         content: >-
