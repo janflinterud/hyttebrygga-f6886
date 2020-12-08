@@ -28,9 +28,8 @@ sections:
       - title: Rimelig
         subtitle: ''
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Teknologien som muliggjør høye betongbygg gjør også våre flytebrygger
+          meget gunstige på pris. Våre brygger er for alle!
         actions:
           - label: Learn More
             url: /style-guide
