@@ -38,7 +38,7 @@ sections:
             icon_position: right
         image: day78-wallet.png
         media_position: right
-        media_width: fifty
+        media_width: thirty-three
       - title: Robust og praktisk
         content: Motstår godt norske vintere og er vesentlig lettere enn betongbrygger.
         actions:
