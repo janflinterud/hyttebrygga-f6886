@@ -53,7 +53,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Stabil
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: ''
         content: >-
           Våre brygger benytter BubbleDeck®-elementer som sikrer suveren
           stabilitet i forhold til pris, vekt og løfteevne. Hver brygge har
