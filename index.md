@@ -11,6 +11,7 @@ sections:
       - label: Kontakt oss
         url: /pricing
         style: primary
+        icon_position: right
       - label: Learn More
         url: /features
         style: secondary
