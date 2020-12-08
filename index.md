@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Hyttebrygga
-    subtitle: Den rimelige flytebryggen
+    subtitle: 'For private '
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
