@@ -48,7 +48,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: undraw_be_the_hero_ssr2.png
+        image: day83-snowman.png
         media_position: left
         media_width: fifty
       - title: Stabil
