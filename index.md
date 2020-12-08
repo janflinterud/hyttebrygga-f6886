@@ -27,7 +27,7 @@ sections:
       - title: Rimelig
         subtitle: ''
         content: >-
-          Teknologien som muliggjør høye betongbygg gjør også våre flytebrygger
+          Teknologien som benyttes i betongbygg gjør også våre flytebrygger
           meget gunstige på pris. Våre brygger er for alle!
         actions: []
         image: day78-wallet.png
