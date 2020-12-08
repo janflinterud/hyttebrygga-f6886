@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Hyttebrygga
     subtitle: 'Den rimelige bryggen for hytter, hjem og bryggeanlegg'
-    content: 'Den rimelige bryggen for hytter, hjem og bryggeanlegg.'
+    content: ''
     actions:
       - label: Kontakt oss
         url: '#kontakt-oss'
