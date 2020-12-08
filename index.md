@@ -9,7 +9,7 @@ sections:
       ligula, cursus id molestie vel.
     actions:
       - label: Kontakt oss
-        url: /pricing
+        url: '#kontakt-oss'
         style: primary
         icon_position: right
         icon: arrow-right
