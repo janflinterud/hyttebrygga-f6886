@@ -4,9 +4,7 @@ sections:
   - type: hero_section
     title: Hyttebrygga
     subtitle: 'For private hytter, hjem og bryggeanlegg'
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: 'Den rimelige bryggen for hytter, hjem og bryggeanlegg.'
     actions:
       - label: Kontakt oss
         url: '#kontakt-oss'
